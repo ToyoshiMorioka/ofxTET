@@ -1,7 +1,8 @@
 ofxTET
 ======
 
-Openframeworks addon for The Eye Tribe.  Json parser is jsonxx.
+Openframeworks addon for The Eye Tribe.  
+Json parser is jsonxx.
 <https://github.com/hjiang/jsonxx>
 
 ## Enviroment
