@@ -11,5 +11,4 @@ This code was developed at oF v.0.8.4 / osx 10.9.5.
 * ofxNetwork
 
 ## The EyeTribe
-look here.
 <http://theeyetribe.com>
